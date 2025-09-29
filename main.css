@@ -1,0 +1,54 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+
+body {
+    margin-bottom: 40px;
+}
+
+form {
+    background-image: linear-gradient(to top, #F0190E, #E8DC6D);
+    background-repeat: no-repeat;
+    padding: 40px;
+    border-radius: 24px;
+}
+
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: "Goudy Old Style", sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+h2, h3, h4, h5, h6 {
+    margin-left: 40px;
+    font-weight: lighter;
+    color: rgb(92, 26, 17);
+}
+
+legend {
+    color: rgb(92, 26, 17);
+    font-size: 22px;
+}
+
+fieldset {
+    margin: 40px;
+    background-color: #F07437;
+    font-family: Sylfaen, sans-serif;
+    font-weight: bold;
+}
+
+button, input[type="submit"],input[type="button"]
+{
+    font-size: 21px;
+    background-color: #E8D374;
+}
+
+
